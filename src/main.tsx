@@ -9,7 +9,7 @@ const Global = createGlobalStyle`
   }
 `;
 
-// container
+// container declaration
 const container = document.getElementById("root");
 const root = createRoot(container!);
 
